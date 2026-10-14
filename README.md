@@ -1,5 +1,9 @@
 # Construction of a Multiview Colored Point Cloud Dataset of Postharvest Lychee Clusters
 
+**Download the complete dataset:** [v1.0](https://github.com/Haikun0619/Lychee_point_cloud_dataset/releases/tag/v1.0)
+
+On the release page, download the dataset archive under **Assets**. Extract the archive to obtain the complete directory structure.
+
 ## Overview
 
 This dataset contains multiview colored point clouds of postharvest `Yuhebao` lychee clusters acquired under controlled conditions. It preserves the relationships among samples, leaf states, acquisition distances, and measured cluster attributes. The dataset comprises 5,760 cropped PLY files from 80 lychee clusters.
@@ -133,7 +137,6 @@ The dataset may support research on:
 
 ## Data Access
 
-- **GitHub Release:** [Lychee Point Cloud Dataset v1.0](https://github.com/Haikun0619/Lychee_point_cloud_dataset/releases/tag/v1.0)
 - **Current version:** v1.0
 - **Release date:** October 14, 2026
 
