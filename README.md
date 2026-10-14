@@ -133,7 +133,7 @@ The dataset may support research on:
 
 ## Data Access
 
-
+- **GitHub Release:** [Lychee Point Cloud Dataset v1.0](https://github.com/Haikun0619/Lychee_point_cloud_dataset/releases/tag/v1.0)
 - **Current version:** v1.0
 - **Release date:** October 14, 2026
 
